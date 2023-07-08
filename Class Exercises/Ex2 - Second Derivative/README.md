@@ -17,4 +17,6 @@ You can modify this script by changing the kernel and seeing how it affects the 
 
 This script provides a simple example of applying a kernel to an image using the OpenCV library in Python. It's a good starting point for anyone interested in image processing and computer vision.
 
+## Results
+
 ![alt text](https://github.com/MohammadKhayyo/Image-Processing/blob/main/Class%20Exercises/Ex2%20-%20Second%20Derivative/output.png)
