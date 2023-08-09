@@ -1,5 +1,3 @@
-Certainly! Here's the revised description that you can use for your Redmi project on GitHub:
-
 ## Fingerprint Ridge Counting using Image Processing
 
 This project focuses on estimating the number of ridges in fingerprint images through advanced image processing techniques. It aims to address the challenges posed by unclear images or images with noise, ensuring accurate ridge identification. The solution incorporates innovative thinking, experience, and extensive research to achieve robust processing and identification for various fingerprint images.
